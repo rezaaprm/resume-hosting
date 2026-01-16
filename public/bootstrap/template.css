@@ -1,0 +1,13 @@
+html, body {
+    height: 100%;
+    padding-top: 0.5rem;
+}
+/*
+Source - https://stackoverflow.com/a
+Posted by Flavio Paulino, modified by community. See post 'Timeline' for change history
+Retrieved 2025-12-06, License - CC BY-SA 4.0
+*/
+
+.text-justify {
+    text-align: justify;
+}
